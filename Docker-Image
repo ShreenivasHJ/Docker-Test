@@ -1,2 +1,0 @@
-$ docker build -t my-perl-app .
-$ docker run -it --rm --name my-running-app my-perl-app
